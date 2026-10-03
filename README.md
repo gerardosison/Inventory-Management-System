@@ -24,6 +24,3 @@ The project follows structured programming principles and was developed using C 
 
 * Gerardo Sison
 * John Raiven J. Mandras
-* Roshny Jen L. Cruz
-* Alexis A. Villanueva
-* Jhon Ryan S. Fullo
